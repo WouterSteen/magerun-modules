@@ -1,0 +1,6 @@
+autoloaders:
+  WouterSteen: %module%/src
+
+commands:
+  customCommands:
+    - WouterSteen\Magento\Command\System\Store\Config\PackageThemeCommand
